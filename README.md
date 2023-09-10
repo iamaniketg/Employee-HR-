@@ -1,6 +1,6 @@
 # Employee and HR Management System
 
--This Spring Boot project is a simple Employee and HR management system that allows you to manage employee information, attendance, performance, and HR-related tasks such as updating job roles and salaries.
+- This Spring Boot project is a simple Employee and HR management system that allows you to manage employee information, attendance, performance, and HR-related tasks such as updating job roles and salaries.
 ----
 ## Table of Contents
 
